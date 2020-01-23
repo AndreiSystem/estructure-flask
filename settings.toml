@@ -1,0 +1,7 @@
+[default]
+SQLALCHEMY_DATABASE_URI = 'sqlite:///teste.db'
+TITLE = 'Teste'
+SECRET_KEY = '12345'
+
+[production]
+SQLALCHEMY_DATABASE_URI = 'mysql+mysqlconnector://topskills05:Andrei2019@mysql.topskills.study/topskills05'
