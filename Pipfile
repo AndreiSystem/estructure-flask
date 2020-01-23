@@ -11,6 +11,9 @@ flask = "*"
 flask-bootstrap = "*"
 flask-simplelogin = "*"
 flask-sqlalchemy = "*"
+dynaconf = "*"
+sqlalchemy-serializer = "*"
+flask-restful = "*"
 
 [requires]
 python_version = "3.8"
